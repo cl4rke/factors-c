@@ -83,6 +83,8 @@ int main() {
         printf("\n");
     }
 
+    printf("\n%d\n", all_factors_count);
+
     return 0;
 }
 

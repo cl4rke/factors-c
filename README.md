@@ -14,6 +14,8 @@ Gets all factors of a specified number, including prime factors, using stacks.
 3 333
 9 111
 27 37
+
+6
 ```
 
 ## Input #2
@@ -131,4 +133,6 @@ Gets all factors of a specified number, including prime factors, using stacks.
 50 200
 80 125
 100 100
+
+108
 ```
