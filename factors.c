@@ -72,7 +72,7 @@ int main() {
     int x = input("Enter number");
 
     Stack* factors = get_prime_factors(x);
-    int all_factors_count = 1; // including prime factors
+    int all_factors_count = is_empty(factors) ? 0 : 1; // including prime factors
 
     print(factors);
     printf("\n");
